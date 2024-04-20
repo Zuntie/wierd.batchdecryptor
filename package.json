@@ -1,0 +1,16 @@
+{
+  "name": "encryptedbat",
+  "version": "1.0.0",
+  "description": "Decrypts the encrypted batch file",
+  "main": "decryptor.js",
+  "scripts": {
+    "decrypt": "node decryptor.js",
+    "clearOut": "node clearOut.js",
+    "assemble": "node assemble.js"
+  },
+  "author": "Zuntie",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

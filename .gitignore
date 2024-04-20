@@ -1,0 +1,8 @@
+/out/*.*
+encryptionMethod.sh
+formattedAssembled.sh
+decryptBase64.js
+test.sh
+package-lock.json
+node_modules
+unsafe/progressing.bat
