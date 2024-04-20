@@ -1,3 +1,8 @@
+## Warning
+Do not run files inside the unsafe folder.
+They are in there for a reason.
+
+
 ## Encryption Part 1
 Lets take a look at the code from line 68-78:
 ```batch
