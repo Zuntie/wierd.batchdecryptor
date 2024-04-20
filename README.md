@@ -19,7 +19,7 @@ This is bloat and can be removed.
 %dzZdgdRZFXYqUBbsslHpeGIaEjuKgTAzzriIxKRnCpLhdoMZaFuADVnxQZyXJhSMxyQCtsUIuuNOVAWpwvJByaWEeLRylTDuxZKEyjFHKMfihyBqciAoxqnwCmyHBwwA:dzZchdQZFYYpVBbrrlHofGIaFjvKhRAzzqiIyJQmBpLhcoLZaFvADVmxPZyXJhRLxyPCurVIvvNNVAXoxvJByaWDfLQylUDvxZKFyjGIKLgihyBpciAnypnxCl=%
 ```
 
-Also replace this from every line with a space, as it sets theses temporary variables.
+Also replace this from every line with a space, as it sets these temporary variables.
 - Not sure what is does for now.
 ```batch
 %RsrV%
